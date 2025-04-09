@@ -4,6 +4,6 @@
 - 任務列表展示
 - 無需登入即可測試畫面
 
-部署平台建議：Vercel.com 或 Netlify
+部署平台建議：Vercel.com 或 Netlify 
 前端框架：React + Tailwind CSS
 未連接資料庫（資料僅存在記憶體中）
